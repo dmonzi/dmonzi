@@ -1,4 +1,4 @@
-### Welcome to my github :167:
+### Welcome to my github :wave:
 
 ![logo]()
 
